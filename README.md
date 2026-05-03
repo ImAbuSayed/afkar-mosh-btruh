@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> في سواد الليل بتنده قلبي
+> نار الشوق بتغلي في دمي
+> نظرة عينيك بتسهرني
+> لمسة إيديك بتولعني
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
