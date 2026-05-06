@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 03, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/afkar-mosh-btruh/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Request Licensing for Afkar Mosh Btruh](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Secure Licensing Rights for Afkar Mosh Btruh](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
