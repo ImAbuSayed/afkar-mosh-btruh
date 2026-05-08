@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Afkar Mosh Btruh
+
+This log tracks the cryptographic history and versioning for the song **Afkar Mosh Btruh** (afkar-mosh-btruh).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T21:57:57.995315 | `v1` | `c8f342a4f885f7805549ecb117814c0b39b7007b68e8b203461996df0e9679cf` | `f19b2e639b64204889533798fde0c4180103609e26648b86c6e37fd9a36653b4` | `2026-05-08_afkar-mosh-btruh-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
